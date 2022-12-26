@@ -21,7 +21,7 @@
  4. DenseNet
  5. UNet
 
-### GAN
+## GAN
  - GAN : Dense layer를 이용하여 mnist 생성 모델
  
  - DCGAN : Convolution layer를 이용하여 mnist 생성 모델
@@ -36,6 +36,10 @@
  
  - cycleGAN : unpaired image를 이용한 변환 모델(horse2zebra)
 
-### RNN
+## RNN
+- RNN을 이용한 mnist 생성
 
-### 논문 리뷰
+## 논문 리뷰
+- GLEAN 논문 리뷰
+- https://arxiv.org/abs/2012.00739
+
