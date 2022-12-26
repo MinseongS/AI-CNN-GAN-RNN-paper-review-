@@ -1,9 +1,9 @@
 # AI-study
 
-###CNN
+### CNN
 
-###GAN
+### GAN
 
-###RNN
+### RNN
 
-###논문 리뷰
+### 논문 리뷰
