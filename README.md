@@ -1,19 +1,19 @@
 # AI-study
 
 ## CNN
-### mnist 분류
+#### mnist 분류
  - DNN과 CNN의 정확도 비교
 
 
-### CIFAR-10 분류
+#### CIFAR-10 분류
  - CNN(간단한 구조)를 이용하요 모델 학습
 
 
-### natural-image 분류
+#### natural-image 분류
  - CIFAR-10 보다 많은 데이터를 이용한 모델 학습
 
 
-### Architecture
+#### Architecture
  - CNN 구조로 많이 사용되는 구조를 직접 코드로 작성
  1. AlexNet
  2. VGGNet
